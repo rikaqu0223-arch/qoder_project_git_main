@@ -55,35 +55,47 @@
   <g filter="url(#shadow)">
     <!-- Legs and feet -->
     <g fill="none" stroke="#f5a623" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M443 310 C432 340 435 374 445 410"/>
-      <path d="M468 314 C492 340 503 360 510 376"/>
+      <path d="M440 310 C425 344 428 381 445 410"/>
+      <path d="M470 314 C492 338 502 358 510 376"/>
       <path d="M445 410 L407 441"/>
       <path d="M510 376 L538 377"/>
     </g>
 
     <!-- Body -->
     <ellipse cx="445" cy="238" rx="95" ry="112" transform="rotate(-10 445 238)" fill="#f7fbff" stroke="#d8e6ef" stroke-width="5"/>
-    <path d="M374 220 C340 255 342 304 386 326 C401 290 407 250 374 220 Z" fill="#eef5fa" stroke="#d8e6ef" stroke-width="4"/>
-    <path d="M489 167 C540 195 551 246 529 292 C505 255 490 213 489 167 Z" fill="#e7f0f7" stroke="#d8e6ef" stroke-width="4"/>
+    <path d="M374 220 C340 255 342 304 386 326 C401 290 407 250 374 220 Z" fill="#e8f1f7" stroke="#d8e6ef" stroke-width="4"/>
+    <path d="M384 238 C365 264 369 292 391 307" fill="none" stroke="#c7dce9" stroke-width="5" stroke-linecap="round"/>
+    <path d="M489 167 C540 195 551 246 529 292 C505 255 490 213 489 167 Z" fill="#e2edf5" stroke="#d8e6ef" stroke-width="4"/>
+    <path d="M503 190 C526 211 533 242 521 266" fill="none" stroke="#c7dce9" stroke-width="5" stroke-linecap="round"/>
 
     <!-- Neck and head -->
     <path d="M456 153 C466 118 499 92 536 96 C576 100 599 129 596 162 C592 207 540 218 508 194 C481 174 452 173 456 153 Z" fill="#f7fbff" stroke="#d8e6ef" stroke-width="5"/>
-    <circle cx="558" cy="134" r="7" fill="#18222f"/>
+    <path d="M490 127 C504 112 522 107 539 110" fill="none" stroke="#c7dce9" stroke-width="5" stroke-linecap="round"/>
+    <ellipse cx="558" cy="134" rx="9" ry="10" fill="#18222f"/>
+    <circle cx="561" cy="131" r="3" fill="#fff"/>
+    <path d="M572 150 Q581 155 588 149" fill="none" stroke="#18222f" stroke-width="3" stroke-linecap="round"/>
     <path d="M596 153 C650 157 698 179 725 211 C682 218 625 208 587 180 Z" fill="#f5a623" stroke="#d98a00" stroke-width="4" stroke-linejoin="round"/>
     <path d="M602 171 C645 176 682 188 708 206 C671 211 627 204 592 185 Z" fill="#ffd27a" opacity="0.9"/>
+    <path d="M600 176 C637 183 670 192 694 203" fill="none" stroke="#e9a319" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
     <path d="M594 153 C632 145 674 150 710 174 C666 174 628 170 596 162 Z" fill="#ffbf45" stroke="#d98a00" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M615 158 C643 154 670 158 692 169" fill="none" stroke="#ffe29a" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
 
     <!-- Hat -->
     <path d="M512 94 C521 70 564 65 581 91 L582 101 C561 93 536 91 512 104 Z" fill="#2a9d8f" stroke="#1e746a" stroke-width="4"/>
+    <path d="M526 89 C540 80 558 80 570 90" fill="none" stroke="#60c6b5" stroke-width="4" stroke-linecap="round"/>
     <path d="M493 107 C527 91 566 91 608 106" fill="none" stroke="#1e746a" stroke-width="8" stroke-linecap="round"/>
 
     <!-- Wing holding handlebar -->
-    <path d="M500 232 C538 228 563 234 592 250" fill="none" stroke="#d8e6ef" stroke-width="28" stroke-linecap="round"/>
+    <path d="M496 231 C531 218 565 229 594 249" fill="none" stroke="#d8e6ef" stroke-width="31" stroke-linecap="round"/>
+    <path d="M496 231 C531 218 565 229 594 249" fill="none" stroke="#f7fbff" stroke-width="21" stroke-linecap="round"/>
+    <path d="M516 229 C535 228 554 234 571 243" fill="none" stroke="#c7dce9" stroke-width="4" stroke-linecap="round"/>
     <path d="M592 250 C612 253 630 250 650 244" fill="none" stroke="#f7fbff" stroke-width="18" stroke-linecap="round"/>
+    <path d="M622 251 L628 244 M632 251 L638 243" stroke="#d8e6ef" stroke-width="3" stroke-linecap="round"/>
 
     <!-- Tail feathers -->
-    <path d="M356 250 C318 235 296 212 288 182 C325 188 351 205 371 234 Z" fill="#eef5fa" stroke="#d8e6ef" stroke-width="4"/>
+    <path d="M356 250 C318 235 296 212 288 182 C325 188 351 205 371 234 Z" fill="#e8f1f7" stroke="#d8e6ef" stroke-width="4"/>
     <path d="M364 272 C324 274 293 260 271 232 C311 224 346 235 374 254 Z" fill="#f7fbff" stroke="#d8e6ef" stroke-width="4"/>
+    <path d="M316 232 C334 238 347 247 359 258" fill="none" stroke="#c7dce9" stroke-width="4" stroke-linecap="round"/>
   </g>
 
   <!-- Motion lines -->
